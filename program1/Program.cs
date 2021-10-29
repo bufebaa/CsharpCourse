@@ -6,7 +6,8 @@ namespace program1
     {
         static void Main(string[] args)
         {
-            Code1.Task1();
+            //Code1.Task1();
+            Code2.Task_with_enums();
         }
     }
 }
