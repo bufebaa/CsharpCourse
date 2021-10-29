@@ -6,8 +6,7 @@ namespace program1
     {
         static void Main(string[] args)
         {
-            string MyName;
-            MyName = "Dasha";
+            string MyName = "Dasha";
             Console.WriteLine(MyName);
 
             Console.ReadKey();
