@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace ifelselesson
 {
+
     class Task1
     {
         public static void Tone()

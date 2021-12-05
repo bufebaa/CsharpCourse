@@ -7,7 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "program1", "program1\progra
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ifelselesson", "ifelselesson\ifelselesson.csproj", "{7DBBEC0B-D41D-4A0D-8EC0-4361343907E6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P3", "P3\P3.csproj", "{F80A34DC-F396-44DB-8FAE-C951D75F5049}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P3", "P3\P3.csproj", "{F80A34DC-F396-44DB-8FAE-C951D75F5049}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3project", "3project\3project.csproj", "{86319F81-7FF2-4D89-A2A1-5C32D82DFE7A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Market", "Market\Market.csproj", "{5DDD4EBF-DF61-4BB2-9E4C-9F2D410EDF45}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +31,14 @@ Global
 		{F80A34DC-F396-44DB-8FAE-C951D75F5049}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F80A34DC-F396-44DB-8FAE-C951D75F5049}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F80A34DC-F396-44DB-8FAE-C951D75F5049}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86319F81-7FF2-4D89-A2A1-5C32D82DFE7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86319F81-7FF2-4D89-A2A1-5C32D82DFE7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86319F81-7FF2-4D89-A2A1-5C32D82DFE7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86319F81-7FF2-4D89-A2A1-5C32D82DFE7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DDD4EBF-DF61-4BB2-9E4C-9F2D410EDF45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DDD4EBF-DF61-4BB2-9E4C-9F2D410EDF45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DDD4EBF-DF61-4BB2-9E4C-9F2D410EDF45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DDD4EBF-DF61-4BB2-9E4C-9F2D410EDF45}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
